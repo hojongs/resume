@@ -50,6 +50,10 @@
 
 // type utilities
 
+@mixin kr {
+  font-family: "Nanum Myeongjo";
+}
+
 @mixin sans {
   font-family: "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
 }
