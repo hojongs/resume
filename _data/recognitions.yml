@@ -1,10 +1,16 @@
-# Recognitions
-- award: Outstanding Achievement
-  organization: Springfield Young Professionals
-  year: 2010, 2014
-  summary: Awarded the Outstanding Achievement award for contributions made to the community and professional accomplishments.
-
-- award: Most Likely To Succeed
-  organization: Springfield High School
-  year: 2004
-  summary: Voted Most Likely To Succeed by a panel of my high school peers.
+- award: 교내 해커톤 장려상
+  organization: 세종대학교
+  year: 2018
+  summary: 졸업트랙 관리 웹서비스 기획 및 개발
+- award: 서울시 앱 공모전 장려상
+  organization: 서울시
+  year: 2017
+  summary: 역사의 제왕 서울원정대 Android App 기획 및 개발
+- award: 교내 SW 경시대회 2등, 3등
+  organization: 세종대학교
+  year: 2016, 2018
+  summary: C언어 알고리즘 대회
+- award: KITRI BoB 4th Top 30
+  organization: KITRI
+  year: 2015.07 &mdash; 2016.02
+  summary: 보안교육 경연 프로그램, 140인 교육생 중 <b>Top 30 진출</b>

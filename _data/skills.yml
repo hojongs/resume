@@ -3,10 +3,10 @@
     Kotlin/JVM, Spring Boot, JPA/Hibernate, Gradle을 사용한 다양한 서버 및 공통 모듈 개발 경험
 - skill: Docker, Kubernetes
   description: |
-    K8s 기반 컨테이너 환경에서 서버 배포 및 운영 경험, Istio, Helm, Spinnaker, Argo CD 등과 함께 사용
+    Kubernetes 기반 컨테이너 환경에서 서버 배포 및 운영 경험, Istio, Helm, Spinnaker, Argo CD 등과 함께 사용
 - skill: gRPC/Protobuf
   description: |
     gRPC/Protobuf를 사용한 API 서버 개발 경험
 - skill: AWS
   description: |
-    AWS ECR, EKS, Aurora(PostgreSQL) 등 AWS Cloud 환경에서 서버 배포 및 운영 경험
+    Amazon EC2, ECR, EKS, Aurora(PostgreSQL) 등 AWS Cloud 환경에서 서버 배포 및 운영 경험

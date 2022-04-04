@@ -1,9 +1,9 @@
 - degree: Bachelor of Computer Science
   uni: Sejong University, Seoul
   year: 2014.03&mdash;2019.08
-  awards:
-    - award: 교내 해커톤 장려상 (2018)
-    - award: 교내 C언어 알고리즘 SW 경시대회 2등, 3등 (2016, 2018)
+  # awards:
+  #   - award: 교내 해커톤 장려상 (2018)
+  #   - award: 교내 C언어 알고리즘 SW 경시대회 2등, 3등 (2016, 2018)
   summary: |
     System Design Lab 학부 연구생 참여 (2018.03&mdash;2019.08)<br>
     <ul>
