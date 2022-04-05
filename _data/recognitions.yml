@@ -1,11 +1,15 @@
 - award: 교내 해커톤 장려상
   organization: 세종대학교
   year: 2018
-  summary: 졸업트랙 관리 웹서비스 기획 및 개발
+  summary: |
+    졸업트랙 관리 웹서비스 기획 및 개발<br>
+    <a href="https://github.com/hojongs/Sejong_Hackathon_2018">Source code</a><br>
 - award: 서울시 앱 공모전 장려상
   organization: 서울시
   year: 2017
-  summary: 역사의 제왕 서울원정대 Android App 기획 및 개발
+  summary: |
+    역사의 제왕 서울원정대 Android App 기획 및 개발<br>
+    <a href="https://github.com/hojongs/SeoulApp-kjh">Source code</a><br>
 - award: 교내 SW 경시대회 2등, 3등
   organization: 세종대학교
   year: 2016, 2018
@@ -13,4 +17,7 @@
 - award: KITRI BoB 4th Top 30
   organization: KITRI
   year: 2015.07 &mdash; 2016.02
-  summary: 보안교육 경연 프로그램, 140인 교육생 중 <b>Top 30 진출</b>
+  summary: |
+    보안교육 경연 프로그램, 140인 교육생 중 <b>Top 30 진출</b><br>
+    <a href="https://www.kitribob.kr/">KITRI BoB Website</a><br>
+
