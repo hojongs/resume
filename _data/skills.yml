@@ -10,3 +10,10 @@
 - skill: AWS
   description: |
     Amazon EC2, ECR, EKS, Aurora(PostgreSQL) 등 AWS Cloud 환경에서 서버 배포 및 운영 경험
+- skill: Collaboration
+  description: |
+    <b>Jira</b>: Issue/Task 관리 및 협업<br>
+    <b>Notion</b>: Documentation<br>
+    <b>Slack</b>: Communication<br>
+    <b>Git/GitHub</b>: PR Code review를 통해 협업함<br>
+    <b>Pair programming</b>: 필요한 경우 페어 프로그래밍을 통해 협업함<br>
