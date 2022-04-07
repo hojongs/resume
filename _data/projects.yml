@@ -4,14 +4,6 @@
   # url: "#"
   description: |
     SaaS 형태의 AIEd B2B API Solution<br>
-- project: 서버 공통 모듈 개발
-  role: Riiid
-  duration: 2020.08&mdash;2021.08
-  # url: "#"
-  description: |
-    Inside Library: Logging, AWS, gRPC, Authentication, Utility 등<br>
-    Content Learning Library: Testprep server의 학습 코어 모듈<br>
-    6개 Product에 적용하여 서비스 런칭: Santa(TOEIC), AI:R Math, 산타 공인중개사, Kaplan GMAT, Connecme-ACT, SantaSAT<br>
 - project: Authentication API Server 개발 및 운영
   role: Riiid
   duration: 2020.02&mdash;2021.08
@@ -20,21 +12,20 @@
     4개 IdP에 OAuth2 로그인 연동 개발: Kakao, Apple, Google, LINE<br>
     6개 Product에 적용하여 서비스 런칭: Santa(TOEIC), AI:R Math, 산타 공인중개사, Kaplan GMAT, Connecme-ACT, SantaSAT<br>
     JWT 기반 OAuth2 인증 제공<br>
-- project: 개발 생산성 툴 도입
+- project: 서버 공통 모듈 개발
   role: Riiid
-  # duration: 2020.02&mdash;2021.08
+  duration: 2020.08&mdash;2021.08
   # url: "#"
   description: |
-    각종 툴 리서치, 소개 및 사용법 문서화<br>
-    gRPC API test tool: BloomRPC, gRPC UI, gRPCurl<br>
-    gRPC Load testing: k6, ghz<br>
-    Protobuf Tool: buf<br>
-    Spinnaker Slack notification integration<br>
+    Inside Library: Logging, AWS, gRPC, Authentication, Utility 등<br>
+    Content Learning Library: Testprep server의 학습 코어 모듈<br>
+    6개 Product에 적용하여 서비스 런칭: Santa(TOEIC), AI:R Math, 산타 공인중개사, Kaplan GMAT, Connecme-ACT, SantaSAT<br>
 - project: SantaSAT, 산타 공인중개사 API 서버 개발
   role: Riiid
   duration: 2019.11&mdash;2020.07
   # url: "#"
   description: |
+    gRPC API 개발<br>
     GitHub Actions를 사용하여 CI/CD automation: 이후 개발된 저장소들에도 적용<br>
 - project: Speech Recognition 검수 서비스 Python REST API 서버 개발
   role: Naver (Intern)
