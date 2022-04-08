@@ -27,12 +27,14 @@ resume_header_intro: |
   Kotlin/Spring 개발 경험을 가진 3년차 서버 개발자입니다.<br>
   Docker, Kubernetes 환경에서 2년 이상 서버를 개발, 배포 및 운영하고 있습니다.<br>
   리팩토링, 성능 최적화, 아키텍처 설계를 좋아합니다.<br>
+  Email: hojong.jjh@gmail.com<br>
+  Phone: 010-8808-5245<br>
 
 # use "yes" to display the email contact button,
 # "no" to display an "I'm not looking for work" message,
 # or remove the resume_looking_for_work option entirely
 # to leave blank
-resume_looking_for_work:        "yes"
+# resume_looking_for_work:        "yes"
 
 # Decide which sections to use
 # comment out to hide
