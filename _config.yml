@@ -24,7 +24,8 @@ resume_contact_address:         ""
 display_header_contact_info:    "false"
 
 resume_header_intro: |
-  Kotlin/Spring 개발 경험을 가진 3년차 서버 개발자입니다.<br>
+  호기심 많은 3년 차 개발자입니다.<br>
+  서버 개발은 주로 Kotlin/Spring을 사용해왔습니다.<br>
   Docker, Kubernetes 환경에서 2년 이상 서버를 개발, 배포 및 운영하고 있습니다.<br>
   리팩토링, 성능 최적화, 아키텍처 설계를 좋아합니다.<br>
   <p>
