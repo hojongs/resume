@@ -2,12 +2,12 @@
   position: Backend Engineer
   duration: 2019.11&mdash;Present
   summary: |
-    AIEd Tech Company, 손정의 소프트뱅크 비전펀드 2000억 투자 유치<br>
+    <b>AIEd Tech Company</b><br>
     Docker, Kubernetes 환경에서 Kotlin/Spring gRPC/REST API 서버 개발<br>
     Tech stack: Kotlin/Spring, JPA/Hibernate, gRPC/Protobuf, Reactor-core, PostgreSQL(AWS Aurora), Docker, Kubernetes, AWS<br>
 - company: Naver (Intern)
   position: Backend Engineer
   duration: 2018.01&mdash;2018.02
   summary: |
-    Clova Speech Recognition Team<br>
+    <b>Clova Speech Recognition Team</b><br>
     Speech Recognition 검수 서비스의 Python REST API 서버 개발

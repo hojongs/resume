@@ -3,33 +3,31 @@
   duration: 2021.09&mdash;Present
   # url: "#"
   description: |
-    SaaS 형태의 AIEd B2B API Solution<br>
+    SaaS 형태의 AIEd B2B Solution<br>
+    장애 최소화를 위해 Istio를 활용하여 Canary deployment PoC (<a href="https://medium.com/jongho-developer/simple-canary-deployment-with-istio-on-kubernetes-a2e04b258e4c">블로그 포스트</a>)<br>
+    Argo CD를 사용해 서버 배포<br>
 - project: Authentication API Server 개발 및 운영
   role: Riiid
   duration: 2020.02&mdash;2021.08
   # url: "#"
   description: |
-    4개 IdP에 OAuth2 로그인 연동 개발: Kakao, Apple, Google, LINE<br>
-    6개 Product에 적용하여 서비스 런칭: Santa(TOEIC), AI:R Math, 산타 공인중개사, Kaplan GMAT, Connecme-ACT, SantaSAT<br>
-    JWT 기반 OAuth2 인증 제공<br>
+    4개 IdP integration 및 OAuth2 인증 개발: Kakao, Apple, Google, LINE<br>
+    Product 독립적인 gRPC 마이크로서비스 형태로 개발<br>
+    JWT 기반 OAuth2 인증 구현<br>
+    6개 Product에 적용하여 제품 런칭: Santa(TOEIC), AI:R Math, 산타 공인중개사, Kaplan GMAT, Connecme-ACT, SantaSAT<br>
 - project: 서버 공통 모듈 개발
   role: Riiid
   duration: 2020.08&mdash;2021.08
   # url: "#"
   description: |
-    Inside Library: Logging, AWS, gRPC, Authentication, Utility 등<br>
-    Content Learning Library: Testprep server의 학습 코어 모듈<br>
-    6개 Product에 적용하여 서비스 런칭: Santa(TOEIC), AI:R Math, 산타 공인중개사, Kaplan GMAT, Connecme-ACT, SantaSAT<br>
+    Inside Library: Logging, AWS, gRPC, Authentication, Utility 등 기능 제공<br>
+    Content Learning Library(CLL): Testprep server의 학습 코어 모듈<br>
+    CLL에서 DB Query 최적화를 통한 성능 개선<br>
+    6개 Product에 적용하여 제품 런칭: Santa(TOEIC), AI:R Math, 산타 공인중개사, Kaplan GMAT, Connecme-ACT, SantaSAT<br>
 - project: SantaSAT, 산타 공인중개사 API 서버 개발
   role: Riiid
   duration: 2019.11&mdash;2020.07
   # url: "#"
   description: |
-    gRPC API 개발<br>
-    GitHub Actions를 사용하여 CI/CD automation: 이후 개발된 저장소들에도 적용<br>
-- project: Speech Recognition 검수 서비스 Python REST API 서버 개발
-  role: Naver (Intern)
-  duration: 2018.01&mdash;2018.02
-  # url: "#"
-  description: |
-    Tech stack: Python/Flask/Elasticsearch
+    gRPC API 디자인 및 개발<br>
+    GitHub Actions를 사용해 CI/CD automation<br>
