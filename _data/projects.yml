@@ -14,6 +14,7 @@
     외부 서비스와 연동하여 Social Login 기능 개발: Kakao, Apple, Google, LINE<br>
     Product 독립적인 gRPC 마이크로서비스 형태로 개발<br>
     JWT 기반 OAuth2 인증 구현<br>
+    Spinnaker dev 환경 배포 자동화 (Automated trigger by Docker registry) 및 Slack notification 연동 <br>
     <b>6개 Product에 적용하여 런칭</b>: Santa(TOEIC), AI:R Math, 산타 공인중개사, Kaplan GMAT, Connecme-ACT, SantaSAT<br>
 - project: 서버 공통 모듈 개발
   role: Riiid
