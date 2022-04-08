@@ -11,7 +11,7 @@
   duration: 2020.02&mdash;2021.08
   # url: "#"
   description: |
-    외부 서비스와 연동하여 Social Login 기능 개발 : Kakao, Apple, Google, LINE<br>
+    외부 서비스와 연동하여 Social Login 기능 개발: Kakao, Apple, Google, LINE<br>
     Product 독립적인 gRPC 마이크로서비스 형태로 개발<br>
     JWT 기반 OAuth2 인증 구현<br>
     6개 Product에 적용하여 런칭: Santa(TOEIC), AI:R Math, 산타 공인중개사, Kaplan GMAT, Connecme-ACT, SantaSAT<br>
