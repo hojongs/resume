@@ -25,6 +25,7 @@
     Inside Library: Logging, AWS, gRPC, Authentication, Utility 등 기능 제공<br>
     Content Learning Library(CLL): Testprep server의 학습 코어 모듈<br>
     CLL에서 DB Query 최적화를 통한 성능 개선<br>
+    Reactor-core, Coroutine 기반 모듈 구현<br>
     <b>6개 Product에 적용하여 런칭</b>: Santa(TOEIC), AI:R Math, 산타 공인중개사, Kaplan GMAT, Connecme-ACT, SantaSAT<br>
 - project: SantaSAT, 산타 공인중개사 API 서버 개발
   role: Riiid
