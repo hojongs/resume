@@ -10,7 +10,7 @@
   year: 2017
   summary: |
     역사의 제왕 서울원정대 Android App 기획 및 개발<br>
-    Tech stack: Java/Android, Daum Map API, Firebase
+    Tech stack: Java/Android, Daum Map API, Firebase(Auth/Database)
 #     <a href="https://github.com/hojongs/SeoulApp-kjh">Source code</a><br>
 - award: 교내 SW 경시대회 2등, 3등
   organization: 세종대학교
