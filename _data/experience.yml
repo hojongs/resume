@@ -1,13 +1,32 @@
+- company: Toss Bank
+  position: Server Developer (Server Platform Team)
+  duration: 2022.07&mdash;Present
+  summary: |
+    <p>
+      <b>"새로운 은행을 만날 순간, 토스뱅크"</b><br>
+      비바리퍼블리카의 자회사 대한민국 3번째 인터넷전문은행<br>
+    </p>
+    <p>
+      <b>개발 생산성, 서비스 가용성, 운영 편의성 향상을 위한 서버 플랫폼 개발</b><br>
+    </p>
 - company: Riiid
   position: Backend Engineer
-  duration: 2019.11&mdash;Present
+  duration: 2019.11&mdash;2022.06 (1년8개월)
   summary: |
-    <b>AIEd Tech Company</b><br>
-    Docker, Kubernetes 환경에서 Kotlin/Spring gRPC/REST API 서버 개발<br>
-    Tech stack: Kotlin/Spring, JPA/Hibernate, gRPC/Protobuf, Reactor-core, Kotlin Coroutine, PostgreSQL(AWS Aurora), Docker, Kubernetes, AWS<br>
+    <p>
+      <b>"Get Rid of inefficiency, inconsistency, inequality in Education"</b><br>
+      AIEd Tech Company<br>
+    </p>
+    <p>
+      <b>R.Inside (웅진씽크빅 AI 중학영어 서비스) 및 내부 마이크로서비스, 라이브러리 개발</b><br>
+      <a href="https://www.mk.co.kr/news/business/view/2021/12/1196482/">웅진씽크빅, 뤼이드와 인공지능 중학영어 서비스 개발 (매일경제)</a><br>
+      Docker, Kubernetes 환경에서 Kotlin/Spring gRPC/REST API 서버 개발<br>
+      Tech stack: Kotlin/Spring, JPA/Hibernate, gRPC/Protobuf, Reactor-core, Kotlin Coroutine, PostgreSQL(AWS Aurora), Docker, Kubernetes, AWS<br>
+    </p>
 - company: Naver (Intern)
-  position: Backend Engineer
-  duration: 2018.01&mdash;2018.02
+  position: Backend Engineer (Clova Speech Recognition Team)
+  duration: 2018.01&mdash;2018.02 (2개월)
   summary: |
-    <b>Clova Speech Recognition Team</b><br>
-    Speech Recognition 검수 서비스의 Python REST API 서버 개발
+    <p>
+      <b>Speech Recognition 검수 서비스의 Python REST API 서버 개발</b><br>
+    </p>
