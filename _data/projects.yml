@@ -34,5 +34,6 @@
   duration: 2019.11&mdash;2020.07
   url: "https://www.mk.co.kr/news/business/view/2020/08/810265/"
   description: |
+    개념카드, 모의고사, 인앱결제 등 기능 개발<br>
     gRPC API 서버 개발<br>
     GitHub Actions를 사용해 CI/CD automation<br>
