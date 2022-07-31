@@ -18,8 +18,11 @@
       AIEd Tech Company<br>
     </p>
     <p>
-      <b>R.Inside 및 내부 마이크로서비스, 라이브러리 개발</b><br>
-      Docker, Kubernetes 환경에서 Kotlin/Spring gRPC/REST API 서버 개발<br>
+      R.Inside B2B API 제품 서버 개발<br>
+      JWT OAuth2 기반 인증 서버 개발<br>
+      학습, 로깅 등 서버 공통 모듈 개발<br>
+      산타 공인중개사 제품 서버 개발<br>
+      주로 Docker, Kubernetes, Kotlin/Spring, gRPC/REST 사용하여 개발<br>
       Tech stack: Kotlin/Spring, JPA/Hibernate, gRPC/Protobuf, Reactor-core, Kotlin Coroutine, PostgreSQL(AWS Aurora), Docker, Kubernetes, AWS<br>
     </p>
 - company: Naver (Intern)
